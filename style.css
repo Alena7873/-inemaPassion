@@ -64,3 +64,23 @@ tbody td:not(:first-child) {
     color: white;
     text-align: center;
 }
+
+.nan1 {
+    color: #EC9419;
+
+}
+
+.nan {
+    text-decoration: none;
+
+
+}
+
+.gr {
+    color: grey;
+}
+
+.im {
+    margin: 0;
+    padding-left: 1%;
+}
